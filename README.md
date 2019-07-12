@@ -15,7 +15,7 @@ Data Science - [@KleoP](https://github.com/KleoP)
 
 ### **Designers**
 Monte Arreguin<br/>
-front-end web dev and UI- https://www.bldgstax.com/ - [@bldgstax](https://github.com/montearreguin)
+front-end web dev and UI- [@pre.script.ionist](https://www.bldgstax.com/) - [@bldgstax](https://github.com/montearreguin)
 ### **Developers**
 
 Nikema Prophet<br />
