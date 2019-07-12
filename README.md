@@ -14,7 +14,8 @@ K. Leo Pullin <br />
 Data Science - [@KleoP](https://github.com/KleoP)
 
 ### **Designers**
-
+Monte Arreguin<br/>
+front-end web dev and UI- https://www.bldgstax.com/ - (https://github.com/montearreguin)
 ### **Developers**
 
 Nikema Prophet<br />
